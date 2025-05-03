@@ -11,7 +11,7 @@ form.addEventListener("submit", searchForLocation);
 let target = "vijayawada";
 
 const fetchResults = async () => {
-  let url = `http://api.weatherapi.com/v1/current.json?key=8054bb19e0814fe9b91143352241510&q=${target}&aqi=no`;
+  let url = `https://api.weatherapi.com/v1/current.json?key=8054bb19e0814fe9b91143352241510&q=${target}&aqi=no`;
 
   try {
     const res = await fetch(url);
