@@ -14,7 +14,7 @@ A simple and responsive weather website that fetches real-time weather data usin
 - HTML5  
 - CSS3  
 - JavaScript (Fetch API)  
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [Access The Website](https://vijay32991.github.io/Weather/)
 
 ## 📦 How to Run
 
